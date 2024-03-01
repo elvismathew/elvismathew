@@ -1,5 +1,3 @@
-👋 Hi, I’m @elvismathew
-Software developer from Tanzania
 
 <!---
 elvismathew/elvismathew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
